@@ -1,6 +1,6 @@
 These are some of my past programming projects. 
 
-Crossy Road
+Crossy Road \n
   Imitation of the mobile game "Crossy Road" which is also similar to "Frogger," an older game
   Coded in Pascal
   I created this in eighth grade for a school computer science fair, so it is one of my earliest large projects

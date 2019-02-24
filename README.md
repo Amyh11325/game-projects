@@ -1,4 +1,4 @@
-These are some of my past programming projects. I made in middle and high school. 
+These are some of my past programming projects that I made in middle and high school. 
 
 Crossy Road: My code is an imitation of the mobile game "Crossy Road" which is also similar to "Frogger," an older game. The player dodges dangerous cars in an attempt to get to the other side. It is coded in Pascal. I created this in eighth grade for a school computer science fair, so it is one of my earliest large projects. I haven't edited the code since then besides the comments
   
